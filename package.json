@@ -1,0 +1,11 @@
+{
+  "name": "cypress-test-proj",
+  "version": "1.0.0",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.6.0",
+    "typescript": "^4.9.5"
+  }
+}
